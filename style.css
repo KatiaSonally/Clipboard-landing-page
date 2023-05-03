@@ -1,0 +1,56 @@
+header {
+    background: url(bg-header-desktop.png);
+    height: 360px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 20px;
+    color: #4c545d;
+}
+
+.cabeçalho {
+    position: relative;
+    width: 720px;
+    height: 360px;
+    margin: auto;
+    display: grid;
+    place-items: center;
+    padding: 60px;
+
+}
+
+.chamada {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #9fabb2;
+    font-weight: 400;
+    position: relative;
+    width: 650px;
+    margin: auto;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.chamada2 {
+    position: relative;
+    width: 500px;
+    margin: auto;
+    display: grid;
+    place-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.subtitulo {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 25px;
+    color: #4c545d;
+    font-weight: 600;  
+}
+
+.subtexto {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 13px;
+    color: #9fabb2;
+    font-weight: 400;
+}
