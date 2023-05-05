@@ -31,6 +31,21 @@ header {
     padding: 20px;
 }
 
+.container {
+    position: relative;
+}
+
+.botoes {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #9fabb2;
+    font-weight: 400;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    
+}
+
 .chamada2 {
     position: relative;
     width: 500px;
