@@ -33,17 +33,32 @@ header {
 
 .container {
     position: relative;
+    display: flex; 
+    justify-content:center;
 }
 
-.botoes {
+.botaoIos {
     font-family: 'Bai Jamjuree', sans-serif;
     font-size: 18px;
     color: #9fabb2;
     font-weight: 400;
-    position: absolute;
-    top: 50%;
-    left: 25%;
-    
+    border-radius: 18px;
+    margin-right: 15px;
+    width: 200px;
+    height: 50px;
+    border: none;
+}
+
+.botaoIos {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color: #9fabb2;
+    font-weight: 400;
+    border-radius: 18px;
+    margin-right: 15px;
+    width: 200px;
+    height: 50px;
+    border: none;
 }
 
 .chamada2 {
